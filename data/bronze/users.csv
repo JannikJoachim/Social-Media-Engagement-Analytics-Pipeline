@@ -1,0 +1,234 @@
+user_id,username,country,account_type,followers_count,join_date
+U1001,travel_media_414,France,creator,420,2024/09/09
+U1002,daily_spot_609,Morocco,creator,2311,2022-04-01
+U1003,daily_spot_220,USA,brand,294109,2023-01-21
+U1004,trend_feed_438,Sweden,personal,77,2022-07-09
+U1005,food_studio_601,India,personal,366,2024-03-06
+U1006,viral_feed_294,Netherlands,verified_creator,238099 ,2021-08-03
+U1007,travel_media_717,Canada,media,458928,
+U1008,spark_feed_113,Jordan,media,371949,2020-08-31
+U1009,travel_insights_281,USA,brand,6513,2020-08-23
+U1010,,Canada,personal,,2021-09-07
+U1011,global_vibes_719,Jordan,verified_creator,3363,2020-02-23
+U1012,trend_pulse_811,Poland,verified_creator,33437,2019-12-22
+U1013,spark_spot_856,USA,brand,3370,29/03/2019
+U1014,global_vibes_309,Canada,business,335397,20/06/2020
+U1015,spark_feed_532,Germany,verified_creator,2000,06/12/2020
+U1016,daily_vibes_205,UAE,creator,395,2019-09-17
+U1017,global_feed_924,Poland,verified_creator,255711,18/07/2022
+U1018,spark_lab_914,Netherlands,verified_creator,1271 ,2021-07-05
+U1019,social_pulse_349,Canada,media,4696,05/03/2020
+U1020,viral_media_559,Canada,media,253,2021/01/20
+U1021,travel_feed_437,UAE,media,853,2020-03-24
+U1022,social_lab_47,Germany,creator,149329,2021/10/03
+U1023,travel_vibes_862,Netherlands,verified_creator,177,2021/11/12
+U1024,global_stories_13,UAE,PERSONAL,3194,
+U1025,global_zone_157,Morocco,media,6474,11/08/2021
+U1026,buzz_media_300,Netherlands,CREATOR,4702,2024-11-15
+U1027,daily_media_662,jordan,creator,192,2024-12-16
+U1028,global_zone_876,UAE, business ,437883,2024/07/16
+U1029,food_spot_591,Netherlands,creator,246,2021-06-10
+U1030,social_lab_479,Spain,media,4181,13/05/2021
+U1031,smart_vibes_519,USA,verified_creator,,2023/07/19
+U1032,trend_vibes_740,Germany,brand,84066,2023-05-18
+U1033,news_lab_456,Canada,personal,65210,2025/02/27
+U1034,tech_stories_434,Saudi Arabia,personal,186403,2021-09-04
+U1035,stream_pulse_152,Brazil,business,124,2022-07-31
+U1036,daily_stories_294,Jordan,business,4623 ,2020-01-15
+U1037,buzz_spot_511,Germany,creator,4824,2020-03-22
+U1038,social_media_248,France,brand,13386,
+U1039,food_stories_295,Saudi Arabia, brand ,2485,2025-02-18
+U1040,smart_vibes_514,France,brand,407861,22/03/2021
+U1041,global_lab_121,usa,media,95,2020/08/22
+U1042,trend_zone_963,Sweden,personal,325145,2019-05-11
+U1043,fit_pulse_375,Egypt, verified_creator ,36028,2025-01-27
+U1044,urban_hub_273,Poland, brand ,28787,
+U1045,news_zone_496,India,verified_creator,477189,2020-06-27
+U1046,urban_feed_212,Morocco,business,126,2024-05-27
+U1047,stream_media_249,Netherlands,verified_creator,235,2022-04-18
+U1048,travel_zone_415,UAE,business,259,2024/03/15
+U1049,,Canada,business,229,2022-12-03
+U1050,smart_media_645,Egypt,creator,337333,2019-09-17
+U1051,pixel_hub_329,jordan,verified_creator,649,2023-05-20
+U1052,social_hub_574,Netherlands,brand,10834,2024-08-28
+U1053,daily_stories_332,France,media,3677,2021-06-28
+U1054,fit_hub_915,Brazil,brand,254386 ,2022-06-08
+U1055,stream_spot_808,India,business,414,2020-06-10
+U1056,urban_hub_780,Canada,verified_creator,334,2020-03-24
+U1057,global_media_341,UAE,verified_creator,2582,2021-12-12
+U1058,global_zone_796,Canada,creator,325,2021-10-29
+U1059,tech_spot_771,France,personal,21623,2019-01-08
+U1060,daily_hub_590,Jordan,personal,4785,2023-08-20
+U1061,spark_studio_810,UAE, verified_creator ,N/A,2023-12-23
+U1062,trend_hub_637,Brazil,brand,2115,2024-10-23
+U1063,social_pulse_874,Turkey,BRAND,438893,2020/12/19
+U1064,pixel_studio_817,Canada,personal,151,2020-11-26
+U1065,buzz_stories_869,Canada,brand,,2022-06-14
+U1066,tech_world_155,Germany,creator,21,2019/10/05
+U1067,viral_zone_262,Poland,business,57,2022/03/23
+U1068,smart_world_797,Canada,verified_creator,435,19/08/2023
+U1069,food_media_456,Germany,media,8536,03/07/2024
+U1070,fit_insights_247,USA,business,N/A,2022-08-30
+U1071,tech_pulse_915,UK,verified_creator,64,2022-11-28
+U1072,travel_stories_668,UK,media,2691,2020-09-30
+U1073,trend_vibes_403,Netherlands,business,N/A,14/03/2021
+U1074,news_feed_657,Egypt,verified_creator,366517,2019-01-23
+U1075,news_studio_195,Italy,verified_creator,N/A,2023-09-15
+U1076,tech_studio_345,Germany,verified_creator,11971,
+U1077,smart_feed_361,Turkey,brand,4243,2023-05-27
+U1078,smart_spot_281,Italy,business,164773,2024/03/07
+U1079,pixel_stories_311,Brazil,brand,4345,2021-12-31
+U1080,buzz_pulse_648,Spain,brand,208947,22/08/2019
+U1081,urban_studio_310,UAE,media,147341,2022-11-20
+U1082,food_vibes_516,Poland,media,40,2021-12-19
+U1083,social_media_870,Saudi Arabia,verified_creator,N/A,2023-03-16
+U1084,travel_zone_532,USA,verified_creator,161863,2020-06-03
+U1085,food_lab_373,USA,verified_creator,22805,2021-04-13
+U1086,viral_feed_597,France,verified_creator,1388,2024-04-29
+U1087,fit_hub_693,India,BRAND,1924,2019/06/01
+U1088,daily_world_30,Turkey,media,328,2020-05-01
+U1089,,Spain,brand,241,15/10/2023
+U1090,news_stories_761,Sweden, creator ,203691,2024-03-01
+U1091,food_insights_624,Sweden,verified_creator,242710,2024/04/08
+U1092,travel_lab_296,France,media,498,2020-09-10
+U1093,social_world_279,UAE,verified_creator,846,2020-08-25
+U1094,news_lab_631,France,brand,202,2023/04/26
+U1095,fit_vibes_227,Poland,creator,28778,2023-07-07
+U1096,social_world_297,Canada,media,157292,2021-05-24
+U1097,tech_pulse_95,Germany,creator,17,2023-06-16
+U1098,smart_vibes_748,UK,business,19 ,2019-07-12
+U1099,stream_studio_117,USA,personal,30562,2024-05-25
+U1100,urban_spot_897,Jordan,brand,71,2019-11-04
+U1101,spark_stories_901,Netherlands,personal,214,2022-01-15
+U1102,,Egypt,creator,28873,2021/09/04
+U1103,travel_feed_153,India,creator,23769,18/11/2023
+U1104,urban_spot_758,USA,personal,2187,2022/06/15
+U1105,buzz_zone_25,Turkey,VERIFIED_CREATOR,21275,2019-05-31
+U1106,travel_insights_898,Morocco,MEDIA,106459,2024-01-03
+U1107,social_hub_108,Poland,personal,174973,2020/02/26
+U1108,news_vibes_160,india,brand,382918,2023-09-19
+U1109,travel_pulse_877,brazil,creator,14609,2021-10-18
+U1110,viral_stories_658,France, creator ,49462,2025/01/30
+U1111,daily_spot_992,Canada,personal,4320,08/12/2023
+U1112,news_studio_405,Poland,media,35204 ,2024-05-11
+U1113,news_world_580,Saudi Arabia,verified_creator,138,2019/03/31
+U1114,spark_pulse_355,Jordan,business,45389,21/10/2024
+U1115,trend_hub_430,Brazil,media,4578,2023-09-08
+U1116,viral_studio_339,Germany,brand,29947,2021-01-24
+U1117,travel_vibes_446,Germany,creator,42023,2025-01-06
+U1118,social_studio_79,Canada,business,312620,2020-09-23
+U1119,travel_world_86,Egypt,media,47986,2024-09-15
+U1120,smart_spot_656,france,BRAND,210,2022/06/01
+U1121,,Turkey,media,62,29/04/2019
+U1122,travel_media_742,UK,personal,141,2019-09-16
+U1123,,Sweden,personal,24901,2024/07/22
+U1124,urban_media_184,Jordan,verified_creator,24051,2020-04-15
+U1125,smart_vibes_456,France,personal,707,2021/09/17
+U1126,viral_pulse_654,Poland,personal,4399,2024-01-29
+U1127,trend_studio_535,Spain,media,2715,26/06/2022
+U1128,food_vibes_77,Egypt,creator,478254,2022-03-02
+U1129,smart_pulse_35,India,business,433,2021-01-14
+U1130,daily_feed_328,Sweden,media,42366,2023-11-17
+U1131,news_studio_123,France,personal,268751,2021/06/23
+U1132,daily_studio_725,Poland,verified_creator,4693,2019-06-28
+U1133,smart_pulse_104,Poland,brand,409783,2024-05-31
+U1134,travel_studio_844,Italy, media ,1886,2024-03-03
+U1135,food_stories_995,italy,business,35714,2022/03/31
+U1136,buzz_pulse_510,Poland,MEDIA,28546,2021/10/26
+U1137,tech_zone_813,Egypt,brand,29862,2022/08/04
+U1138,viral_hub_977,Poland,verified_creator,,2020-08-04
+U1139,,canada,VERIFIED_CREATOR,73,2024-10-08
+U1140,smart_spot_210,USA,creator,291421,2024-12-30
+U1141,pixel_world_502,Netherlands,personal,443,2021-02-12
+U1142,global_zone_242,Sweden,business,19500,2020-01-24
+U1143,pixel_studio_85,India,business,442,11/10/2024
+U1144,daily_pulse_252,France,personal,161743,13/05/2022
+U1145,smart_insights_871,Saudi Arabia,brand,595,2023-03-08
+U1146,news_lab_372,Poland,brand,228,2019/03/27
+U1147,global_stories_24,Germany,personal,77,26/05/2019
+U1148,urban_world_347,Canada,business,N/A,2021-05-15
+U1149,social_vibes_480,France,brand,22869,2019-09-18
+U1150,pixel_studio_595,Italy,personal,2806,2019-10-23
+U1151,travel_stories_525,Jordan,business,2423,21/04/2021
+U1152,food_lab_754,Brazil,brand,479,2021-01-02
+U1153,global_feed_33,Sweden,brand,137,2023-06-25
+U1154,travel_insights_149,Germany,business,47105,2019-04-23
+U1155,travel_stories_622,Morocco,personal,5891,07/07/2022
+U1156,smart_pulse_362,Brazil,brand,48080,2021-07-31
+U1157,global_media_268,Germany, media ,47949,2020-09-08
+U1158,,Sweden,brand,39635,2021-09-20
+U1159,social_zone_836,Morocco, brand ,,2023-08-07
+U1160,smart_vibes_343,Turkey,brand,2944,2024-05-09
+U1161,stream_vibes_603,France,business,458847,2021/01/16
+U1162,smart_zone_779,sweden,verified_creator,10913,2023-06-13
+U1163,trend_insights_30,France,personal,1403,2024-11-22
+U1164,smart_vibes_883,uk,brand,16614 ,06/01/2022
+U1165,food_feed_348,Turkey,brand,31167 ,2025-01-20
+U1166,,Morocco,business,422,2019/05/18
+U1167,buzz_feed_360,Brazil,verified_creator,120,2023-05-31
+U1168,buzz_insights_366,Canada,media,14311,2024-11-16
+U1169,daily_world_400,Jordan,verified_creator,15082,17/03/2023
+U1170,stream_studio_499,Sweden,media,,2024-06-25
+U1171,daily_spot_192,Egypt,brand,2749,2021/12/23
+U1172,stream_pulse_385,France,brand,31733,2022-12-14
+U1173,urban_stories_398,Morocco,media,212,2020-03-17
+U1174,social_studio_247,Poland,verified_creator,49554,2023/05/07
+U1175,fit_insights_353,USA, creator ,123515,2019/07/25
+U1176,food_feed_414,Canada,verified_creator,919,2023-04-07
+U1177,smart_world_215,india,brand,284,2023-08-02
+U1178,stream_vibes_909,Poland,creator,92,2020/07/15
+U1179,food_vibes_557,sweden,business,102880,2020/01/26
+U1180,spark_hub_173,India,personal,43145,2020-09-22
+U1181,food_vibes_680,brazil,brand,2123,2023-10-27
+U1182,social_stories_920,Spain,business,248,04/04/2021
+U1183,smart_vibes_977,Netherlands,brand,16270,2024-01-16
+U1184,tech_spot_412,India,creator,17,2023/08/19
+U1185,buzz_lab_162,UAE,creator,130255,2022/01/12
+U1186,spark_vibes_754,Brazil,media,122,2024-06-23
+U1187,trend_lab_593,Italy,creator,339,03/10/2021
+U1188,tech_hub_335,Turkey,verified_creator,1221 ,2020-09-11
+U1189,travel_zone_779,Spain,business,462413,2020-01-14
+U1190,daily_insights_487,Sweden,verified_creator,197,2019-10-06
+U1191,daily_pulse_689,Morocco,brand,N/A,
+U1192,trend_stories_438,Turkey,media,4247,2019-12-07
+U1193,trend_vibes_709,France,verified_creator,30537,2020-09-10
+U1194,fit_media_410,Canada,creator,178908,2021-10-24
+U1195,travel_stories_282,egypt,personal,156,2024-08-02
+U1196,stream_hub_980,Saudi Arabia,verified_creator,557,11/09/2024
+U1197,pixel_studio_96,Morocco,verified_creator,3451,2024-07-23
+U1198,daily_spot_314,Morocco,personal,212216,2021-03-19
+U1199,stream_feed_867,Turkey,brand,7880,2025-01-03
+U1200,global_stories_799,Germany,creator,28177,2021-12-23
+U1201,tech_insights_659,Italy,verified_creator,255819,2022-10-11
+U1202,pixel_zone_524,Germany,media,276782,2021-05-26
+U1203,daily_insights_850,Morocco,personal,67,2024-09-16
+U1204,travel_vibes_13,india,brand,391,2023-12-31
+U1205,news_vibes_579,Poland,personal,4899,2019-04-27
+U1206,daily_world_994,Brazil,personal,386474,2020-07-01
+U1207,social_stories_806,Poland,brand,,2019-04-04
+U1208,global_feed_373,Sweden,MEDIA,323,2019-07-01
+U1209,buzz_zone_943,Saudi Arabia,personal,12134,2024-09-11
+U1210,tech_pulse_147,Netherlands,creator,328536,24/04/2019
+U1211,stream_stories_797,Poland,creator,124,2020/02/06
+U1212,daily_stories_183,Morocco,brand,296187 ,03/08/2020
+U1213,news_studio_766,France, business ,69957,2019-07-19
+U1214,buzz_zone_787,Italy,business,,2020-03-09
+U1215,urban_insights_65,Brazil,media,148,04/05/2021
+U1216,urban_feed_542,Jordan,brand,48 ,2020-01-03
+U1217,fit_feed_404,India,verified_creator,472,2019/05/06
+U1218,smart_hub_342,Morocco,CREATOR,392893,2022-08-28
+U1219,travel_zone_554,Sweden,creator,32852,12/02/2023
+U1220,urban_studio_227,Poland,personal,386,2020-12-23
+U1221,global_spot_997,netherlands,brand,35,2019-09-19
+U1222,stream_media_931,Italy,personal,3734,2023-12-28
+U1223,smart_studio_353,UAE,media,2056,2022-07-01
+U1224,social_lab_883,Netherlands,personal,16555,2021-10-27
+U1225,news_pulse_883,Jordan,BUSINESS,328,2020-02-12
+U1013,spark_spot_856,USA,brand,3370,29/03/2019
+U1038,social_media_248,France,brand,13386,
+U1085,food_lab_373,USA,verified_creator,22805,2021-04-13
+U1121,,Turkey,media,62,29/04/2019
+U1156,smart_pulse_362,Brazil,brand,48080,2021-07-31
+U1021,travel_feed_437,UAE,media,853,2020-03-24
+U1067,viral_zone_262,POLAND,business,57,2022/03/23
+U1141,pixel_world_502,NETHERLANDS,personal,443,2021-02-12
